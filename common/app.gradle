@@ -1,0 +1,4 @@
+apply from: 'https://github.com/gongbox/gradle/raw/main/common/common.gradle'
+apply from: 'https://github.com/gongbox/gradle/raw/main/common/java8.gradle'
+apply from: 'https://github.com/gongbox/gradle/raw/main/common/idea.gradle'
+apply from: 'https://github.com/gongbox/gradle/raw/main/common/junit.gradle'

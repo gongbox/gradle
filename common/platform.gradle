@@ -1,0 +1,2 @@
+apply from: 'https://github.com/gongbox/gradle/raw/main/common/common.gradle'
+apply from: 'https://github.com/gongbox/gradle/raw/main/common/maven_publish_platform.gradle'

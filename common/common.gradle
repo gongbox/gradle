@@ -1,0 +1,8 @@
+repositories {
+    mavenLocal()
+    mavenCenter()
+}
+
+task wrap(type: Wrapper) {
+    gradleVersion = '6.6'
+}
